@@ -73,7 +73,7 @@ Oops!
 </div>
 </div>
 </main>
-
+<?php require('footer.html'); ?>
 <script src="jquery.min.js"></script>
 
 <script src="bootstrap.bundle.min.js"></script>
