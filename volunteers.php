@@ -1,3 +1,4 @@
+<?php ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -7,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" />
-<title>Gracious - Charity and Donation HTML Template</title>
+<title>Our volunteers</title>
 <meta name="author" content="Mannat Studio">
 <meta name="description" content="Gracious is a Responsive HTML5 Template for Charity and NGO related services.">
 <meta name="keywords" content="Gracious, responsive, html5, charity, charity agency, charity foundation, charity template, church, donate, donation, fundraiser, fundraising, mosque, ngo, non-profit, nonprofit, organization, volunteer">
@@ -45,134 +46,8 @@
 </div>
 </div>
 </div>
-
-
-<header>
-<div class="top-bar-right d-flex align-items-center text-md-left">
-<div class="container">
-<div class="row align-items-center">
-<div class="col d-flex align-items-center contact-info">
-<div>
-<i data-feather="phone"></i> <a href="tel:+1234567899">+1234567899</a>
-</div>
-<div>
-<i data-feather="mail"></i> <a href="https://mannatstudio.com/cdn-cgi/l/email-protection#432a2d252c03243122202a2c36306d202c2e"><span class="__cf_email__" data-cfemail="365f58505976514457555f5943451855595b">[email&#160;protected]</span></a>
-</div>
-<div>
-<i data-feather="clock"></i> Mon-Fri / 9:00 AM - 19:00 PM
-</div>
-</div>
-<div class="col-md-auto">
-<div class="social-icons">
-<a href="volunteers.html#"><i class="icofont-facebook"></i></a>
-<a href="volunteers.html#"><i class="icofont-twitter"></i></a>
-<a href="volunteers.html#"><i class="icofont-instagram"></i></a>
-<a href="volunteers.html#"><i class="icofont-behance"></i></a>
-<a href="volunteers.html#"><i class="icofont-youtube-play"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<nav class="navbar navbar-expand-lg header-fullpage">
-<div class="container text-nowrap">
-<div class="d-flex align-items-center w-100 col p-0 logo-brand">
-<a class="navbar-brand rounded-bottom light-bg" href="index.html">
-<img src="logo_dark.svg" alt>
-</a>
-</div>
-
-<div class="d-inline-flex request-btn order-lg-last col-auto p-0 align-items-center">
-<a class="btn-outline-primary btn ms-3" href="volunteers.html#" id="search_home"><i data-feather="search"></i></a>
-<a class="nav-link btn btn-default ms-3 donate-btn" href="donation-page.html">Donate</a>
-
-<button class="navbar-toggler x collapsed" type="button" data-bs-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-
-</div>
-
-<div class="navbar-collapse">
-
-<div class="offcanvas-header">
-<a href="index.html" class="logo-small">
-<img src="logo_dark.svg" alt>
-</a>
-</div>
-
-
-<div class="offcanvas-body">
-<ul class="navbar-nav ms-auto">
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" id="dropdown03" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
-<ul class="dropdown-menu" aria-labelledby="dropdown03">
-<li><a class="dropdown-item" href="index.html">Home Layout 1</a></li>
-<li><a class="dropdown-item" href="index-2.html">Home Layout 2</a></li>
-<li><a class="dropdown-item" href="index-3.html">Home Layout 3</a></li>
-<li class="dropdown dropdown-submenu">
-<a class="dropdown-item dropdown-toggle-mob" href="volunteers.html#">Third Level Menu</a>
-<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-<li><a href="volunteers.html#" class="dropdown-item">Action</a></li>
-<li><a href="volunteers.html#" class="dropdown-item">Another action</a></li>
-<li><a href="volunteers.html#" class="dropdown-item">Something else here</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="about-us.html">About Us</a>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Causes</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="causes-list.html">Causes List</a></li>
-<li><a class="dropdown-item" href="causes-single.html">Causes Single</a></li>
-</ul>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="volunteers.html">Volunteers</a></li>
-<li><a class="dropdown-item" href="become-volunteers.html">Become Volunteers</a></li>
-<li><a class="dropdown-item" href="donation-page.html">Donation Page</a></li>
-<li><a class="dropdown-item" href="shortcodes-element.html">Shortcode Elements</a></li>
-<li><a class="dropdown-item" href="typography.html">Typography</a></li>
-<li><a class="dropdown-item" href="our-faqs.html">Our Faq's</a></li>
-<li><a class="dropdown-item" href="404-page.html">404 Page</a></li>
-</ul>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="events-list.html">Events List</a></li>
-<li><a class="dropdown-item" href="events-alternate.html">Events Alternate</a></li>
-<li><a class="dropdown-item" href="events-single.html">Events Single</a></li>
-</ul>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="blog-standard.html">Blog Standard</a></li>
-<li><a class="dropdown-item" href="blog-grid.html">Blog Grid</a></li>
-<li><a class="dropdown-item" href="blog-single.html">Blog Single</a></li>
-</ul>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="contact-us.html">Contact</a>
-</li>
-</ul>
-</div>
-
-<div class="close-nav"></div>
-
-</div>
-</div>
-</nav>
-
-</header>
+<!-- add the nav bar -->
+<?php require_once('header.html'); ?>
 
 
 <section class="breadcrumbs-page-wrap">
@@ -210,7 +85,7 @@ Our Expert Volunteer
 </div>
 <img src="team-1.jpg" alt class="rounded-circle">
 </div>
-<h4>Adams Hobes</h4>
+<h4>Mumbere M</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -229,7 +104,7 @@ Our Expert Volunteer
 </div>
 <img src="team-2.jpg" alt class="rounded-circle">
 </div>
-<h4>Natasha Gamble </h4>
+<h4>Mutooro M</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -248,7 +123,7 @@ Our Expert Volunteer
 </div>
 <img src="team-3.jpg" alt class="rounded-circle">
 </div>
-<h4>James Evans </h4>
+<h4>Donnah K </h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -267,7 +142,7 @@ Our Expert Volunteer
 </div>
 <img src="team-4.jpg" alt class="rounded-circle">
 </div>
-<h4>Rick Dalton</h4>
+<h4>Bwambale Peter</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -284,9 +159,9 @@ Our Expert Volunteer
 <a href="volunteers.html#"><i class="icofont-twitter"></i></a>
 <a href="volunteers.html#"><i class="icofont-instagram"></i></a>
 </div>
-<img src="team-5.jpg" alt class="rounded-circle">
+<img src="images/team-5.jpg" alt class="rounded-circle">
 </div>
-<h4>Jack Oram</h4>
+<h4>Fortunate A</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -305,7 +180,7 @@ Our Expert Volunteer
 </div>
 <img src="team-6.jpg" alt class="rounded-circle">
 </div>
-<h4>Don Johnson</h4>
+<h4>Peter K</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -324,7 +199,7 @@ Our Expert Volunteer
 </div>
 <img src="team-7.jpg" alt class="rounded-circle">
 </div>
-<h4>Anna Taylor</h4>
+<h4>Kambale H</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -343,7 +218,7 @@ Our Expert Volunteer
 </div>
 <img src="team-8.jpg" alt class="rounded-circle">
 </div>
-<h4>Grant Marshall</h4>
+<h4>Martha M</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
 <a href="volunteers-single.html" class="read-more-line"><span>Read More</span></a>
@@ -679,3 +554,4 @@ Our World Wide Partner
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"849a7f6b6bb85bc3","version":"2024.1.0","r":1,"token":"64224fc8786846928480d180dfc466bd","b":1}' crossorigin="anonymous"></script>
 </body>
 </html>
+
