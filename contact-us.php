@@ -47,7 +47,7 @@
 </div>
 
 
-<?php require_once('header.php'); ?>
+<?php require_once('header.html'); ?>
 
 
 <section class="breadcrumbs-page-wrap">
@@ -164,7 +164,7 @@ Contact With Us
 <h2>Let Us Come Together To Make A Difference</h2>
 </div>
 <div class="icon">
-<a href="donation-page.html" class="btn btn-default">Donate Now</a>
+<a href="donation-page.php" class="btn btn-default">Donate Now</a>
 </div>
 </div>
 </div>

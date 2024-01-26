@@ -47,7 +47,7 @@
 </div>
 
 
-<?php require('heade.html'); ?>
+<?php require('header.html'); ?>
 
 
 <section class="breadcrumbs-page-wrap">

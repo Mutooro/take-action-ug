@@ -289,7 +289,7 @@ Our World Wide Partner
 
 </main>
 
-<?php require('footer.php'); ?>
+<?php require('footer.html'); ?>
 
 
 <div class="overlay overlay-hugeinc">
