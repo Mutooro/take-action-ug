@@ -46,110 +46,7 @@
 </div>
 </div>
 
-
-<header>
-<div class="top-bar-right d-flex align-items-center text-md-left">
-<div class="container">
-<div class="row align-items-center">
-<div class="col d-flex align-items-center contact-info">
-<div>
-<i data-feather="phone"></i> <a href="tel:+1234567899">+1234567899</a>
-</div>
-<div>
-<i data-feather="mail"></i> <a href="https://mannatstudio.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cfdac9cbc1c7dddb86cbc7c5"><span class="__cf_email__" data-cfemail="177e79717857706576747e7862643974787a">[email&#160;protected]</span></a>
-</div>
-<div>
-<i data-feather="clock"></i> Mon-Fri / 9:00 AM - 19:00 PM
-</div>
-</div>
-<div class="col-md-auto">
-<div class="social-icons">
-<a href="about-us.html#"><i class="icofont-facebook"></i></a>
-<a href="about-us.html#"><i class="icofont-twitter"></i></a>
-<a href="about-us.html#"><i class="icofont-instagram"></i></a>
-<a href="about-us.html#"><i class="icofont-behance"></i></a>
-<a href="about-us.html#"><i class="icofont-youtube-play"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<nav class="navbar navbar-expand-lg header-fullpage">
-<div class="container text-nowrap">
-<div class="d-flex align-items-center w-100 col p-0 logo-brand">
-<a class="navbar-brand rounded-bottom light-bg" href="index.html">
-<img src="logo_dark.svg" alt>
-</a>
-</div>
-
-<div class="d-inline-flex request-btn order-lg-last col-auto p-0 align-items-center">
-<a class="btn-outline-primary btn ms-3" href="about-us.html#" id="search_home"><i data-feather="search"></i></a>
-<a class="nav-link btn btn-default ms-3 donate-btn" href="donation-page.html">Donate</a>
-
-<button class="navbar-toggler x collapsed" type="button" data-bs-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-
-</div>
-
-<div class="navbar-collapse">
-
-<div class="offcanvas-header">
-<a href="index.html" class="logo-small">
-<img src="logo_dark.svg" alt>
-</a>
-</div>
-
-
-<div class="offcanvas-body">
-<ul class="navbar-nav ms-auto">
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" id="dropdown03" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
-<ul class="dropdown-menu" aria-labelledby="dropdown03">
-<li><a class="dropdown-item" href="index.html">Home</a></li>
-
-<!--  -->
-</ul>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="about-us.html">About Us</a>
-</li>
-
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="volunteers.html">Volunteers</a></li>
-<li><a class="dropdown-item" href="become-volunteers.html">Become Volunteers</a></li>
-<li><a class="dropdown-item" href="donation-page.html">Donation Page</a></li>
-<li><a class="dropdown-item" href="shortcodes-element.html">Shortcode Elements</a></li>
-
-</ul>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle-mob" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Events</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="events-list.html">Events List</a></li>
-
-</ul>
-</li>
-
-<li class="nav-item">
-<a class="nav-link" href="contact-us.html">Contact</a>
-</li>
-</ul>
-</div>
-
-<div class="close-nav"></div>
-
-</div>
-</div>
-</nav>
-
-</header>
-
+<?php  require('header.html'); ?>
 
 <section class="breadcrumbs-page-wrap">
 <div class="bg-fixed pos-rel breadcrumbs-page">
@@ -338,7 +235,7 @@ Our Expert Volunteer
 </h1>
 </div>
 <div class="col-lg-8 col-md-6 text-md-end btn-team">
-<a href="volunteers.html" class="btn btn-outline-dark">View All Members</a>
+<a href="volunteers.php" class="btn btn-outline-dark">View All Members</a>
 </div>
 </div>
 <div class="row">
@@ -347,16 +244,16 @@ Our Expert Volunteer
 <div class="team-section-wrap mb-0">
 <div class="img green">
 <div class="social-icons">
-<a href="about-us.html#"><i class="icofont-facebook"></i></a>
-<a href="about-us.html#"><i class="icofont-twitter"></i></a>
-<a href="about-us.html#"><i class="icofont-instagram"></i></a>
+<a href="about-us.php#"><i class="icofont-facebook"></i></a>
+<a href="about-us.php#"><i class="icofont-twitter"></i></a>
+<a href="about-us.php#"><i class="icofont-instagram"></i></a>
 </div>
 <img src="team-1.jpg" alt class="rounded-circle">
 </div>
 <h4>Adams Hobes</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
-<a href="about-us.html#" class="read-more-line"><span>Read More</span></a>
+<a href="about-us.php#" class="read-more-line"><span>Read More</span></a>
 </div>
 </div>
 </div>
@@ -407,16 +304,16 @@ Our Expert Volunteer
 <div class="team-section-wrap mb-0">
 <div class="img beige">
 <div class="social-icons">
-<a href="about-us.html#"><i class="icofont-facebook"></i></a>
-<a href="about-us.html#"><i class="icofont-twitter"></i></a>
-<a href="about-us.html#"><i class="icofont-instagram"></i></a>
+<a href="about-us.php#"><i class="icofont-facebook"></i></a>
+<a href="about-us.php#"><i class="icofont-twitter"></i></a>
+<a href="about-us.php#"><i class="icofont-instagram"></i></a>
 </div>
 <img src="team-4.jpg" alt class="rounded-circle">
 </div>
 <h4>Rick Dalton</h4>
 <h5>Volunteer</h5>
 <div class="text-md-end">
-<a href="about-us.html#" class="read-more-line"><span>Read More</span></a>
+<a href="about-us.php#" class="read-more-line"><span>Read More</span></a>
 </div>
 </div>
 </div>
@@ -439,7 +336,7 @@ Our Expert Volunteer
 Frequently Asked Questions
 </h1>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-<a class="btn btn-default" href="our-faqs.html">Ask It Now</a>
+<a class="btn btn-default" href="our-faqs.php">Ask It Now</a>
 </div>
 
 <div class="w-100 d-none d-sm-block d-lg-none spacer-60"></div>
@@ -695,106 +592,7 @@ Our World Wide Partner
 
 </main>
 
-<footer class="wide-tb-70 pb-0 mb-spacer-md">
-<div class="container pos-rel">
-<div class="row">
-<div class="col-lg-5 col-md-10">
-<div class="footer-subscribe">
-<h3>Newsletter</h3>
-<h2>Get Update Every Week</h2>
-<div class="input-wrap">
-<input type="text" name="name" placeholder="Enter Your Email">
-<button type="submit" class="btn btn-default">Subscribe now</button>
-</div>
-</div>
-</div>
-<div class="give-us-call">
-<i data-feather="phone"></i>
-<h4>Give us a call</h4>
-<h3>+1234567899</h3>
-</div>
-</div>
-<div class="row">
-
-<div class="col-lg-3 col-md-6">
-<div class="logo-footer">
-<img src="logo_white.svg" alt>
-</div>
-<p>This is Photoshop’s version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
-<div class="social-icons">
-<ul class="list-unstyled list-group list-group-horizontal">
-<li><a href="about-us.html#"><i class="icofont-facebook"></i></a></li>
-<li><a href="about-us.html#"><i class="icofont-twitter"></i></a></li>
-<li><a href="about-us.html#"><i class="icofont-instagram"></i></a></li>
-<li><a href="about-us.html#"><i class="icofont-behance"></i></a></li>
-<li><a href="about-us.html#"><i class="icofont-youtube-play"></i></a></li>
-</ul>
-</div>
-</div>
-
-
-<div class="col-lg-4 col-md-6">
-<h3 class="footer-heading">Contact Info</h3>
-<div class="footer-widget-contact">
-<ul class="list-unstyled">
-<li>
-<div><i data-feather="map-pin"></i> </div>
-<div>Envato Pty Ltd, 13/2 Elizabeth St Melbourne VIC 3000, Australia</div>
-</li>
-<li>
-<div><i data-feather="phone"></i> </div>
-<div><a href="tel:+1234567899">+1234567899</a></div>
-</li>
-<li>
-<div><i data-feather="mail"></i> </div>
-<div><a href="https://mannatstudio.com/cdn-cgi/l/email-protection#9af3f4fcf5daf2f5eaffe8fbf3e9ffb4f9f5f7"><span class="__cf_email__" data-cfemail="a9c0c7cfc6e9c1c6d9ccdbc8c0dacc87cac6c4">[email&#160;protected]</span></a></div>
-</li>
-<li>
-<div><i data-feather="clock"></i> </div>
-<div>Mon-Fri / 9:00 AM - 19:00 PM</div>
-</li>
-</ul>
-</div>
-</div>
-
-
-<div class="w-100 d-none d-md-block d-lg-none spacer-30"></div>
-
-
-<div class="col-lg-2 col-md-6">
-<h3 class="footer-heading">Explore Us</h3>
-<div class="footer-widget-menu">
-<ul class="list-unstyled">
-<li><a href="about-us.html#"><i class="icofont-simple-right"></i> <span>About Us</span></a></li>
-<li><a href="about-us.html#"><i class="icofont-simple-right"></i> <span>Our History</span></a></li>
-<li><a href="about-us.html#"><i class="icofont-simple-right"></i> <span>Our Services</span></a></li>
-<li><a href="about-us.html#"><i class="icofont-simple-right"></i> <span>Meet Doctors</span></a></li>
-<li><a href="about-us.html#"><i class="icofont-simple-right"></i> <span>Success History</span></a></li>
-</ul>
-</div>
-</div>
-
-
-<div class="col-lg-3 col-md-6">
-<h3 class="footer-heading">Photo Gallery</h3>
-<ul id="basicuse" class="photo-thumbs"></ul>
-</div>
-
-</div>
-</div>
-<div class="copyright-wrap">
-<div class="container pos-rel">
-<div class="row text-md-start text-center">
-<div class="col-sm-12 col-md-auto copyright-text">
-© Copyright <span class="txt-blue">Gracious</span> <span id="yearText"></span>. | Created by <a href="https://themeforest.net/user/mannatstudio" rel="nofollow">MannatStudio</a>
-</div>
-<div class="col-sm-12 col-md-auto ms-md-auto text-md-end text-center copyright-links">
-<a href="about-us.html#">Terms & Condition</a> | <a href="about-us.html#">Privacy Policy</a> | <a href="about-us.html#">Legal</a>
-</div>
-</div>
-</div>
-</div>
-</footer>
+<?php require('footer.html'); ?>
 
 
 <div class="overlay overlay-hugeinc">
