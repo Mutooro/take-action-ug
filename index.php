@@ -105,7 +105,7 @@ To The Homeless People
 To The Homeless People
 </h1>
 <div class="owl-slide-animated owl-slide-cta">
-<a class="btn btn-default me-3" href="causes-list.html" role="button">Join Us Now</a>
+<a class="btn btn-default me-3" href="causes-list.php" role="button">Join Us Now</a>
 <!-- <a class="slider-link popup-video" href="https://player.vimeo.com/video/7449107">Watch the video <i class="charity-play_button"></i></a> -->
 </div>
 </div>
@@ -239,7 +239,7 @@ Small Actions Lead To Big changes
 </div>
 
 </div>
-<a href="become-volunteers.html" class="btn btn-outline-default">Become a Volunteer</a>
+<a href="become-volunteers.php" class="btn btn-outline-default">Become a Volunteer</a>
 </div>
 </div>
 
@@ -271,7 +271,7 @@ Small Actions Lead To Big changes
 
 <div class="icon-box-with-img">
 <div class="img">
-<a href="causes-single.html"><img src="causes_img_1.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_1.jpg" alt></a>
 </div>
 <div class="text">
 <h3>Help For Education</h3>
@@ -287,7 +287,7 @@ Small Actions Lead To Big changes
 
 <div class="icon-box-with-img">
 <div class="img">
-<a href="causes-single.html"><img src="causes_img_4.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_4.jpg" alt></a>
 </div>
 <div class="text">
 <h3>Help For Humanity</h3>
@@ -306,7 +306,7 @@ Small Actions Lead To Big changes
 
 <div class="icon-box-with-img">
 <div class="img">
-<a href="causes-single.html"><img src="causes_img_3.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_3.jpg" alt></a>
 </div>
 <div class="text">
 <h3>Help For Water</h3>
@@ -322,7 +322,7 @@ Small Actions Lead To Big changes
 
 <div class="icon-box-with-img">
 <div class="img">
-<a href="causes-single.html"><img src="causes_img_5.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_5.jpg" alt></a>
 </div>
 <div class="text">
 <h3>Help For Food</h3>
@@ -389,7 +389,7 @@ More Recent Causes
 <div class="item">
 <div class="causes-wrap">
 <div class="img-wrap">
-<a href="causes-single.html"><img src="causes_img_1.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_1.jpg" alt></a>
 <div class="raised-progress">
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -407,7 +407,7 @@ $10086 raised of $15000
 <h3><a href="causes-single.html">Education for Poor Childrens</a></h3>
 <p>Inventore veritatis et quasi archit see ecto beatae vitae dicta sunt explaemo enim voluptatem quia</p>
 <div class="btn-wrap">
-<a class="btn-primary btn" href="causes-single.html">Donate Now</a>
+<a class="btn-primary btn" href="causes-single.php">Donate Now</a>
 </div>
 </div>
 </div>
@@ -417,7 +417,7 @@ $10086 raised of $15000
 <div class="item">
 <div class="causes-wrap">
 <div class="img-wrap">
-<a href="causes-single.html"><img src="causes_img_2.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_2.jpg" alt></a>
 <div class="raised-progress">
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -435,7 +435,7 @@ $10086 raised of $15000
 <h3><a href="causes-single.html">Help For Homeless People</a></h3>
 <p>Inventore veritatis et quasi archit see ecto beatae vitae dicta sunt explaemo enim voluptatem quia</p>
 <div class="btn-wrap">
-<a class="btn-primary btn" href="causes-single.html">Donate Now</a>
+<a class="btn-primary btn" href="causes-single.php">Donate Now</a>
 </div>
 </div>
 </div>
@@ -445,7 +445,7 @@ $10086 raised of $15000
 <div class="item">
 <div class="causes-wrap">
 <div class="img-wrap">
-<a href="causes-single.html"><img src="causes_img_3.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_3.jpg" alt></a>
 <div class="raised-progress">
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -460,10 +460,10 @@ $10086 raised of $15000
 </div>
 <div class="content-wrap">
 <span class="tag">Health</span>
-<h3><a href="causes-single.html">Supply Water For Good Health</a></h3>
+<h3><a href="causes-single.php">Supply Water For Good Health</a></h3>
 <p>Inventore veritatis et quasi archit see ecto beatae vitae dicta sunt explaemo enim voluptatem quia</p>
 <div class="btn-wrap">
-<a class="btn-primary btn" href="causes-single.html">Donate Now</a>
+<a class="btn-primary btn" href="causes-single.php">Donate Now</a>
 </div>
 </div>
 </div>
@@ -473,7 +473,7 @@ $10086 raised of $15000
 <div class="item">
 <div class="causes-wrap">
 <div class="img-wrap">
-<a href="causes-single.html"><img src="causes_img_4.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_4.jpg" alt></a>
 <div class="raised-progress">
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -501,7 +501,7 @@ $10086 raised of $15000
 <div class="item">
 <div class="causes-wrap">
 <div class="img-wrap">
-<a href="causes-single.html"><img src="causes_img_5.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_5.jpg" alt></a>
 <div class="raised-progress">
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -529,7 +529,7 @@ $10086 raised of $15000
 <div class="item">
 <div class="causes-wrap">
 <div class="img-wrap">
-<a href="causes-single.html"><img src="causes_img_6.jpg" alt></a>
+<a href="causes-single.html"><img src="images/causes_img_6.jpg" alt></a>
 <div class="raised-progress">
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -586,7 +586,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_1.jpg" title="School Development">
+<a href="images/gallery_img_1.jpg" title="School Development">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>School Development</h3>
@@ -594,7 +594,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_1.jpg" alt>
+<img src="images/gallery_img_1.jpg" alt>
 </a>
 </div>
 
@@ -602,7 +602,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_2.jpg" title="Child Welfare">
+<a href="images/gallery_img_2.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -610,7 +610,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_2.jpg" alt>
+<img src="images/gallery_img_2.jpg" alt>
 </a>
 </div>
 
@@ -618,7 +618,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_3.jpg" title="Child Welfare">
+<a href="images/gallery_img_3.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -626,7 +626,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_3.jpg" alt>
+<img src="images/gallery_img_3.jpg" alt>
 </a>
 </div>
 
@@ -634,7 +634,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_4.jpg" title="Child Welfare">
+<a href="images/gallery_img_4.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -642,7 +642,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_4.jpg" alt>
+<img src="images/gallery_img_4.jpg" alt>
 </a>
 </div>
 
@@ -650,7 +650,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_5.jpg" title="Child Welfare">
+<a href="images/gallery_img_5.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -658,7 +658,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_5.jpg" alt>
+<img src="images/gallery_img_5.jpg" alt>
 </a>
 </div>
 
@@ -666,7 +666,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_6.jpg" title="Child Welfare">
+<a href="images/gallery_img_6.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -674,7 +674,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_6.jpg" alt>
+<img src="images/gallery_img_6.jpg" alt>
 </a>
 </div>
 
@@ -682,7 +682,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_7.jpg" title="Child Welfare">
+<a href="images/gallery_img_7.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -690,7 +690,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_7.jpg" alt>
+<img src="images/gallery_img_7.jpg" alt>
 </a>
 </div>
 
@@ -698,7 +698,7 @@ Project We Have Done
 <div class="col-lg-4 col-md-6">
 
 <div class="img-gallery-item">
-<a href="gallery_img_8.jpg" title="Child Welfare">
+<a href="images/gallery_img_8.jpg" title="Child Welfare">
 <div class="gallery-content">
 <div class="tag"><span>Education</span></div>
 <h3>Child Welfare</h3>
@@ -706,7 +706,7 @@ Project We Have Done
 <i data-feather="plus-circle"></i>
 </div>
 </div>
-<img src="gallery_img_8.jpg" alt>
+<img src="images/gallery_img_8.jpg" alt>
 </a>
 </div>
 
@@ -721,7 +721,7 @@ Project We Have Done
 <div class="row align-items-center">
 <div class="col-lg-7 col-md-12">
 <div class="text-center">
-<img src="about_img.png" alt>
+<img src="images/about_img.png" alt>
 </div>
 </div>
 <div class="col-lg-5 col-md-12">
@@ -769,7 +769,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="event_alternate_img_1.jpg" alt></a>
+<a href="events-single.html"><img src="images/event_alternate_img_1.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -790,7 +790,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="event_alternate_img_2.jpg" alt></a>
+<a href="events-single.html"><img src="images/event_alternate_img_2.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -811,7 +811,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="event_alternate_img_3.jpg" alt></a>
+<a href="events-single.html"><img src="images/event_alternate_img_3.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -832,7 +832,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="event_alternate_img_4.jpg" alt></a>
+<a href="events-single.html"><img src="images/event_alternate_img_4.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -853,7 +853,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="event_alternate_img_5.jpg" alt></a>
+<a href="events-single.html"><img src="images/event_alternate_img_5.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -874,7 +874,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="event_alternate_img_6.jpg" alt></a>
+<a href="events-single.html"><img src="images/event_alternate_img_6.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -918,7 +918,7 @@ Our Expert Volunteer
 <a href="index.html#"><i class="icofont-twitter"></i></a>
 <a href="index.html#"><i class="icofont-instagram"></i></a>
 </div>
-<img src="team-1.jpg" alt class="rounded-circle">
+<img src="images/team-1.jpg" alt class="rounded-circle">
 </div>
 <h4>Adams Hobes</h4>
 <h5>Volunteer</h5>
@@ -937,7 +937,7 @@ Our Expert Volunteer
 <a href="index.html#"><i class="icofont-twitter"></i></a>
 <a href="index.html#"><i class="icofont-instagram"></i></a>
 </div>
-<img src="team-2.jpg" alt class="rounded-circle">
+<img src="images/team-2.jpg" alt class="rounded-circle">
 </div>
 <h4>Natasha Gamble</h4>
 <h5>Volunteer</h5>
@@ -959,7 +959,7 @@ Our Expert Volunteer
 <a href="index.html#"><i class="icofont-twitter"></i></a>
 <a href="index.html#"><i class="icofont-instagram"></i></a>
 </div>
-<img src="team-3.jpg" alt class="rounded-circle">
+<img src="images/team-3.jpg" alt class="rounded-circle">
 </div>
 <h4>James Evans</h4>
 <h5>Volunteer</h5>
@@ -978,7 +978,7 @@ Our Expert Volunteer
 <a href="index.html#"><i class="icofont-twitter"></i></a>
 <a href="index.html#"><i class="icofont-instagram"></i></a>
 </div>
-<img src="team-4.jpg" alt class="rounded-circle">
+<img src="images/team-4.jpg" alt class="rounded-circle">
 </div>
 <h4>Rick Dalton</h4>
 <h5>Volunteer</h5>
@@ -1012,7 +1012,7 @@ What People Say
 helpless etc. and concerned citizens</p>
 </div>
 <div class="client-testimonial-icon">
-<img src="team_1.jpg" alt>
+<img src="images/team_1.jpg" alt>
 <div class="text">
 <div class="name">Josefin Fashkin</div>
 <div class="post">Senior Activist</div>
@@ -1036,7 +1036,7 @@ helpless etc. and concerned citizens</p>
 helpless etc. and concerned citizens</p>
 </div>
 <div class="client-testimonial-icon">
-<img src="team_2.jpg" alt>
+<img src="images/team_2.jpg" alt>
 <div class="text">
 <div class="name">Josefin Fashkin</div>
 <div class="post">Senior Activist</div>
@@ -1060,7 +1060,7 @@ helpless etc. and concerned citizens</p>
 helpless etc. and concerned citizens</p>
 </div>
 <div class="client-testimonial-icon">
-<img src="team_1.jpg" alt>
+<img src="images/team_1.jpg" alt>
 <div class="text">
 <div class="name">Josefin Fashkin</div>
 <div class="post">Senior Activist</div>
@@ -1094,7 +1094,7 @@ Some Of Our Recent Stories & News Blog
 <div class="item">
 <div class="post-wrap">
 <div class="post-img">
-<a href="blog-single.html"><img src="blog_img_1.jpg" alt></a>
+<a href="blog-single.html"><img src="" alt></a>
 </div>
 <div class="post-content">
 <div class="post-date">17, Aug, 2020</div>
@@ -1111,7 +1111,7 @@ Some Of Our Recent Stories & News Blog
 <div class="item">
 <div class="post-wrap">
 <div class="post-img">
-<a href="blog-single.html"><img src="blog_img_2.jpg" alt></a>
+<a href="blog-single.html"><img src="" alt></a>
 </div>
 <div class="post-content">
 <div class="post-date">17, Aug, 2020</div>
@@ -1128,7 +1128,7 @@ Some Of Our Recent Stories & News Blog
 <div class="item">
 <div class="post-wrap">
 <div class="post-img">
-<a href="blog-single.html"><img src="blog_img_3.jpg" alt></a>
+<a href="blog-single.html"><img src="" alt></a>
 </div>
 <div class="post-content">
 <div class="post-date">17, Aug, 2020</div>
@@ -1145,7 +1145,7 @@ Some Of Our Recent Stories & News Blog
 <div class="item">
 <div class="post-wrap">
 <div class="post-img">
-<a href="blog-single.html"><img src="blog_img_4.jpg" alt></a>
+<a href="blog-single.html"><img src="" alt></a>
 </div>
 <div class="post-content">
 <div class="post-date">17, Aug, 2020</div>
@@ -1162,7 +1162,7 @@ Some Of Our Recent Stories & News Blog
 <div class="item">
 <div class="post-wrap">
 <div class="post-img">
-<a href="blog-single.html"><img src="blog_img_5.jpg" alt></a>
+<a href="blog-single.html"><img src="" alt></a>
 </div>
 <div class="post-content">
 <div class="post-date">17, Aug, 2020</div>
@@ -1192,7 +1192,7 @@ Some Of Our Recent Stories & News Blog
 <div class="col-sm-12">
 <div class="callout-style-side-img d-lg-flex align-items-center top-broken-grid">
 <div class="img-callout">
-<img src="callout_side_img.jpg" alt>
+<img src="images/callout_side_img.jpg" alt>
 </div>
 <div class="text-callout">
 <div class="d-sm-flex align-items-center">
@@ -1226,35 +1226,35 @@ Our World Wide Partner
 
 <div class="item">
 <div class="clients-logo">
-<img src="client1.png" alt>
+<img src="images/client1.png" alt>
 </div>
 </div>
 
 
 <div class="item">
 <div class="clients-logo">
-<img src="client2.png" alt>
+<img src="images/client2.png" alt>
 </div>
 </div>
 
 
 <div class="item">
 <div class="clients-logo">
-<img src="client3.png" alt>
+<img src="images/client3.png" alt>
 </div>
 </div>
 
 
 <div class="item">
 <div class="clients-logo">
-<img src="client4.png" alt>
+<img src="images/client4.png" alt>
 </div>
 </div>
 
 
 <div class="item">
 <div class="clients-logo">
-<img src="client5.png" alt>
+<img src="images/client5.png" alt>
 </div>
 </div>
 
