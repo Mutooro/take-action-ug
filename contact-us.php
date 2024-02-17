@@ -131,15 +131,15 @@ Contact With Us
 <div class="icon-box-4 bg-green mb-4">
 <i data-feather="phone"></i>
 <h3>Phone Number</h3>
-<div>+1234567899<br>1-800-763-5400</div>
+<div>+256707064552<br>256707064552</div>
 </div>
 
 
 <div class="icon-box-4 bg-gray mb-4">
 <i data-feather="mail"></i>
 <h3>Email Address</h3>
-<div><a href="https://mannatstudio.com/cdn-cgi/l/email-protection#4f262129200f27203f2a3d2e263c2a612c2022"><span class="__cf_email__" data-cfemail="2f464149406f47405f4a5d4e465c4a014c4042">[email&#160;protected]</span></a></div>
-<div><a href="https://mannatstudio.com/cdn-cgi/l/email-protection#1c6a737069726879796e5c74736c796e7d756f79327f7371"><span class="__cf_email__" data-cfemail="9aecf5f6eff4eeffffe8daf2f5eaffe8fbf3e9ffb4f9f5f7">[email&#160;protected]</span></a></div>
+<div><a href="mailto:takeactioninitiative@gmail.com">takeactioninitiative@gmail.com</a></div>
+<div><a href="mailto:takeactionug@gmail.com">takeactionug@gmail.com</a></div>
 </div>
 
 </div>
