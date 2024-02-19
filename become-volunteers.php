@@ -100,60 +100,38 @@ Conatct Us <br> +1234567899
 
 
 <section class="wide-tb-100 map-bg bg-navy-blue pt-0">
-<div class="container">
-<div class="pos-rel become-volunteers bg-orange">
-<div class="row no-gutters">
-<div class="col-12 col-lg-6 col-md-12">
-<div class="inner-form">
-<h1 class="heading-main light-mode">
-<small>Become A Volunteer</small>
-</h1>
-<div class="form">
-<form>
-<div class="form-group">
-<label for="fullname"><strong>Full Name</strong></label>
-<input type="text" class="form-control form-light" id="fullname">
-</div>
-<div class="form-group">
-<label for="email"><strong>Email Address</strong></label>
-<input type="email" class="form-control form-light" id="email">
-</div>
-<div class="form-group">
-<label for="phone"><strong>Phone Number</strong></label>
-<input type="tel" class="form-control form-light" id="phone">
-</div>
-<div class="form-group">
-<label for="refrence"><strong>Refrence Contact</strong></label>
-<input type="tel" class="form-control form-light" id="refrence">
-</div>
-<div class="form-group">
-<label for="msg"><strong>Your Comments</strong></label>
-<textarea class="form-control form-light" rows="5" id="msg"></textarea>
-</div>
-<button type="submit" class="btn btn-outline-light mt-3">Send Request</button>
-</form>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-6 col-md-12 volunteers-img-bg">
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row align-items-center">
-<div class="col-lg-7">
-<h1 class="heading-main light-mode">
-<small>Help Other People</small>
-We Dream to Create A Bright Future Of The Underprivileged Children
-</h1>
-</div>
-<div class="col-sm-12 text-md-end">
-<a href="donation-page.html" class="btn btn-primary">Donate Now</a>
-</div>
-</div>
-</div>
-</div>
+    <div class="container">
+        <div class="pos-rel become-volunteers bg-orange">
+            <div class="row no-gutters">
+                <div class="col-12 col-lg-6 col-md-12">
+                    <div class="inner-form">
+                        <h1 class="heading-main light-mode">
+                            <small>Become A Volunteer</small>
+                        </h1>
+                        <!-- Add the form iframe here -->
+                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJKAOoEgZT0izjJgHqZj09bIHrobH4N_Cplfwim-xqPndTug/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-12 volunteers-img-bg">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <h1 class="heading-main light-mode">
+                        <small>Help Other People</small>
+                        We Dream to Create A Bright Future Of The Underprivileged Children
+                    </h1>
+                </div>
+                <div class="col-sm-12 text-md-end">
+                    <a href="donation-page.html" class="btn btn-primary">Donate Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
+
 
 
 <section class="wide-tb-100">

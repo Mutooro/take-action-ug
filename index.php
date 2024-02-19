@@ -131,17 +131,17 @@ To The Homeless People
 <i class="charity-gift_box"></i>
 </div>
 <small>Total Funds Committed</small>
-<span class="counter">14,721</span>
+<span class="counter">1,472</span>
 </div>
 <form class="form-style">
 <h3 class="h3-sm fw-7 txt-white mb-3">Easy Donation</h3>
 <div class="form-group">
 <label for="name"><strong>Full Name</strong></label>
-<input type="text" class="form-control form-light" id="name" placeholder="e.g John Doe">
+<input type="text" class="form-control form-light" id="name" placeholder="e.g Mutooro">
 </div>
 <div class="form-group">
 <label for="email"><strong>Email Address</strong></label>
-<input type="email" class="form-control form-light" id="email" placeholder="e.g example@sitename.com">
+<input type="email" class="form-control form-light" id="email" placeholder="e.g mutooro@me.com">
 </div>
 <div class="form-group">
 <label for="state"><strong>Select Causes</strong></label>
@@ -255,10 +255,10 @@ Small Actions Lead To Big changes
 <div class="row">
 <div class="col-lg-5 col-md-12">
 <h1 class="heading-main">
-<small>Welcome To Raise Hope</small>
-Small Actions Lead To Big changes
+<small>Welcome To Take Action Ug</small>
+Small Actions Lead To Big changes.
 </h1>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+<p>We concert our efforts towards strengthening professionalism and spiritual attitude towards the students in schools and in communities.</p>
 </div>
 </div>
 </div>

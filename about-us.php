@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" />
-<title>Gracious - Charity and Donation HTML Template</title>
+<title>Take Action</title>
 <meta name="author" content="Mannat Studio">
 <meta name="description" content="Gracious is a Responsive HTML5 Template for Charity and NGO related services.">
 <meta name="keywords" content="Gracious, responsive, html5, charity, charity agency, charity foundation, charity template, church, donate, donation, fundraiser, fundraising, mosque, ngo, non-profit, nonprofit, organization, volunteer">
@@ -78,19 +78,22 @@
 <small>About Us</small>
 Step Forward Serve The Huminity Reach Out & Help
 </h1>
-<p>The secret to happiness lies in helping others. Never underestimate the difference YOU can make in the lives of the poor, the abused and the helpless. Spread sunshine in their lives no matter what the weather may be.</p>
+<p>Take Action is woking hard to ensure academic excellence in schools and giving support to the single mothers and people
+  with special needs in communities. The initiative also unites to reduce challenges thats are hindering academics
+  in schools and low developmnet in communities.
+</p>
 <div class="icon-box-1 my-4">
 <i class="charity-volunteer_people"></i>
 <div class="text">
 <h3>Work As An Intern</h3>
-<p>Sed quia consequuntur agni dolores eos qui ratoluptatem sequi nesciun porquis</p>
+<p>Join our team as an intern to create an impact in our society</p>
 </div>
 </div>
 <div class="d-flex">
-<a class="btn btn-default mr-3" href="become-volunteers.html">Join Now</a>
+<a class="btn btn-default mr-3" href="become-volunteers.php">Join Now</a>
 <div class="about-phone">
 <i data-feather="phone-call"></i>
-Conatct Us <br> +1234567899
+Conatct Us <br> +256707064552
 </div>
 </div>
 </div>
@@ -107,7 +110,7 @@ Conatct Us <br> +1234567899
 <small>Get to Know Us</small>
 Let Us Come Together To Make a Difference
 </h1>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+<p>We concert our efforts towards strengthening professionalism and spiritual attitude towards the students in schools and in communities.</p>
 
 <div class="skillbar-wrap">
 <div class="clearfix">
@@ -144,7 +147,7 @@ Medical Help
 <a class="nav-link" id="pills-vision-tab" data-bs-toggle="pill" href="about-us.html#pills-vision" role="tab" aria-controls="pills-vision" aria-selected="false">Our Vision</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" id="pills-history-tab" data-bs-toggle="pill" href="about-us.html#pills-history" role="tab" aria-controls="pills-history" aria-selected="false">Our History</a>
+<a class="nav-link" id="pills-history-tab" data-bs-toggle="pill" href="about-us.html#pills-history" role="tab" aria-controls="pills-history" aria-selected="false">Objectives</a>
 </li>
 </ul>
 <div class="tab-content theme-tabbing" id="pills-tabContent">
@@ -155,19 +158,20 @@ Medical Help
 <img src="about_img_2.jpg" class="about-us-2" alt>
 <div class="since-year">
 <span>Since</span>
-14
+3
 <span class="text-end">Years</span>
 </div>
 </div>
 </div>
 <div class="col-md-5">
-<ul class="list-unstyled icons-listing theme-orange mb-0">
+<!-- <ul class="list-unstyled icons-listing theme-orange mb-0">
 <li>Nsectetur cing elit.</li>
 <li>Suspe ndisse suscipit sagittis leo.</li>
 <li>Entum estibulum dignissim posuere.</li>
 <li>If you are going to use a passage.</li>
 <li>Lorem Ipsum on the tend to repeat.</li>
-</ul>
+</ul> -->
+<p>Sustaining the production of innovative and competent citizens for community development.</p>
 </div>
 </div>
 </div>
@@ -178,19 +182,20 @@ Medical Help
 <img src="about_img_2.jpg" class="about-us-2" alt>
 <div class="since-year">
 <span>Since</span>
-14
+3
 <span class="text-end">Years</span>
 </div>
 </div>
 </div>
 <div class="col-md-5">
-<ul class="list-unstyled icons-listing theme-orange mb-0">
+<!-- <ul class="list-unstyled icons-listing theme-orange mb-0">
 <li>Nsectetur cing elit.</li>
 <li>Suspe ndisse suscipit sagittis leo.</li>
 <li>Entum estibulum dignissim posuere.</li>
 <li>If you are going to use a passage.</li>
 <li>Lorem Ipsum on the tend to repeat.</li>
-</ul>
+</ul> -->
+<p>To create a spirit of self-reliance among the single mothers and people with special needs.</p>
 </div>
 </div>
 </div>
@@ -201,18 +206,18 @@ Medical Help
 <img src="about_img_2.jpg" class="about-us-2" alt>
 <div class="since-year">
 <span>Since</span>
-14
+3
 <span class="text-end">Years</span>
 </div>
 </div>
 </div>
 <div class="col-md-5">
 <ul class="list-unstyled icons-listing theme-orange mb-0">
-<li>Nsectetur cing elit.</li>
-<li>Suspe ndisse suscipit sagittis leo.</li>
-<li>Entum estibulum dignissim posuere.</li>
-<li>If you are going to use a passage.</li>
-<li>Lorem Ipsum on the tend to repeat.</li>
+<li>To promote the culture of togetherness among the single mothers and people with special needs in communities.</li>
+<li>To ensure mobilization and psychosocial support to single mothers and people with special needs..</li>
+<li>To enhance education standards of the schools and establish and entrepreneurial stance.</li>
+<li>To bridge the gap between the students, teachers and the parents and TACEI for easy sharing.</li>
+
 </ul>
 </div>
 </div>

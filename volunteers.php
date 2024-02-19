@@ -159,7 +159,7 @@ Our Expert Volunteer
 <a href="volunteers.html#"><i class="icofont-twitter"></i></a>
 <a href="volunteers.html#"><i class="icofont-instagram"></i></a>
 </div>
-<img src="images/team-5.jpg" alt class="rounded-circle">
+<img src="team-5.jpg" alt class="rounded-circle">
 </div>
 <h4>Fortunate A</h4>
 <h5>Volunteer</h5>
