@@ -287,7 +287,7 @@ Small Actions Lead To Big changes.
 
 <div class="icon-box-with-img">
 <div class="img">
-<a href="causes-single.html"><img src="images/causes_img_4.jpg" alt></a>
+<a href="causes-single.html"><img src="causes_img_4.jpg" alt></a>
 </div>
 <div class="text">
 <h3>Help For Humanity</h3>
@@ -574,7 +574,7 @@ We Dream to Create A Bright Future Of The Underprivileged Children
 </section>
 
 
-<section class="wide-tb-100">
+<!-- <section class="wide-tb-100">
 <div class="container">
 <div class="row img-gallery">
 <div class="col-lg-4">
@@ -713,7 +713,7 @@ Project We Have Done
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
 <section class="wide-tb-100 bg-white shadow">
@@ -769,7 +769,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="images/event_alternate_img_1.jpg" alt></a>
+<a href="events-single.html"><img src="event_alternate_img_1.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -790,7 +790,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="images/event_alternate_img_2.jpg" alt></a>
+<a href="events-single.html"><img src="event_alternate_img_2.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -811,7 +811,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="images/event_alternate_img_3.jpg" alt></a>
+<a href="events-single.html"><img src="event_alternate_img_3.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -832,7 +832,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="images/event_alternate_img_4.jpg" alt></a>
+<a href="events-single.html"><img src="event_alternate_img_4.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -853,7 +853,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="images/event_alternate_img_5.jpg" alt></a>
+<a href="events-single.html"><img src="event_alternate_img_5.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
@@ -874,7 +874,7 @@ Reach Out & Help In Our Latest Events
 <div class="date-box">
 05 <span>Aug</span>
 </div>
-<a href="events-single.html"><img src="images/event_alternate_img_6.jpg" alt></a>
+<a href="events-single.html"><img src="event_alternate_img_6.jpg" alt></a>
 <div class="content-wrap">
 <h3><a href="events-single.html">Everyone Let’s Run For The Humanity This Time</a></h3>
 <div class="event-details">
