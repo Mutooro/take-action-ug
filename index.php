@@ -100,9 +100,9 @@ To The Homeless People
 <div class="row justify-content-center justify-content-md-start no-gutters">
 <div class="col-10 col-md-6 static">
 <div class="owl-slide-text">
-<h3 class="owl-slide-animated owl-slide-title">Raising Hope</h3>
+<h3 class="owl-slide-animated owl-slide-title">Giving Hope</h3>
 <h1 class="owl-slide-animated owl-slide-subtitle">
-To The Homeless People
+To Those who Need It
 </h1>
 <div class="owl-slide-animated owl-slide-cta">
 <a class="btn btn-default me-3" href="causes-list.php" role="button">Join Us Now</a>

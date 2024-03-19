@@ -90,7 +90,7 @@ Requirements For A Volunteer
 <a class="nav-link btn btn-default mr-3" href="volunteers.html">Join Now</a>
 <div class="about-phone">
 <i data-feather="phone-call"></i>
-Conatct Us <br> +1234567899
+Conatct Us <br> +1256783389814
 </div>
 </div>
 </div>
@@ -174,11 +174,11 @@ Our World Wide Partner
 </div>
 
 
-<div class="item">
+<!-- <div class="item">
 <div class="clients-logo">
 <img src="client5.png" alt>
 </div>
-</div>
+</div> -->
 
 </div>
 </div>
